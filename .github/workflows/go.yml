@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: 07andri/belajar-cicd:latest
+          tags: andriyonan07/belajar-cicd:latest
